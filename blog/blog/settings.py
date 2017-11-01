@@ -25,7 +25,7 @@ SECRET_KEY = '_08_y@)#$0act%q8ix%p!mbf9x=fg((5##j@l*_b^$w(3y_b=-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*']   #add commit
 
 
 # Application definition
